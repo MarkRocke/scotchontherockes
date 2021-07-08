@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/</link>
+	<description>Variety is the spice of life</description>
 	<lastBuildDate>Tue, 10 Mar 2020 21:16:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/#comment-2</link>
+		<link>http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 10 Mar 2020 21:16:55 +0000</pubDate>

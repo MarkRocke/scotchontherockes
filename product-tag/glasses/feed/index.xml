@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Glasses &#8211; Scotch On The Rocke&#039;s</title>
+	<atom:link href="http://https://markrocke.github.io/scotchontherockes/product-tag/glasses/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://markrocke.github.io/scotchontherockes</link>
+	<description>Variety is the spice of life</description>
+	<lastBuildDate>Thu, 08 Jul 2021 17:15:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Johnnie Walker Limited Edition Glasses</title>
+		<link>http://https://markrocke.github.io/scotchontherockes/product/johnnie-walker-limited-edition-glasses/</link>
+					<comments>http://https://markrocke.github.io/scotchontherockes/product/johnnie-walker-limited-edition-glasses/#respond</comments>
+		
+		<dc:creator><![CDATA[krocke]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2021 16:22:57 +0000</pubDate>
+				<guid isPermaLink="false">http://https://markrocke.github.io/scotchontherockes/?post_type=product&#038;p=650</guid>
+
+					<description><![CDATA[JW 200 years Anniversary Glasses. Made to commemorate the making of an iconic drink and its 200 year life span.]]></description>
+										<content:encoded><![CDATA[<p>JW 200 years Anniversary Glasses</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://markrocke.github.io/scotchontherockes/product/johnnie-walker-limited-edition-glasses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

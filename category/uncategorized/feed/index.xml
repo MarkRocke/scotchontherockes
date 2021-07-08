@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Uncategorized &#8211; Scotch On The Rocke&#039;s</title>
-	<atom:link href="https://markrocke.github.io/scotchontherockes/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://markrocke.github.io/scotchontherockes</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="http://https://markrocke.github.io/scotchontherockes/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://markrocke.github.io/scotchontherockes</link>
+	<description>Variety is the spice of life</description>
 	<lastBuildDate>Tue, 10 Mar 2020 21:16:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/</link>
-					<comments>https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/#comments</comments>
+		<link>http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/</link>
+					<comments>http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[krocke]]></dc:creator>
 		<pubDate>Tue, 10 Mar 2020 21:16:55 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://https://markrocke.github.io/scotchontherockes/2020/03/10/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
